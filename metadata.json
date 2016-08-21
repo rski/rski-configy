@@ -1,0 +1,15 @@
+{
+  "name": "rski-configy",
+  "version": "0.1.0",
+  "author": "rski",
+  "summary": "Bootstrap my config",
+  "license": "GPLv3",
+  "source": "https://github.com/rski/rski-configy",
+  "project_page": "https://github.com/rski/rski-configy",
+  "issues_url": "https://github.com/rski/rski-configy/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
