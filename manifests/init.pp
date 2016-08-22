@@ -27,6 +27,8 @@
 # Examples
 # --------
 #
+
+
 # @example
 #    class { 'configy':
 #      servers => [ 'pool.ntp.org', 'ntp.local.company.com' ],
@@ -43,6 +45,8 @@
 # Copyright 2016 Your name here, unless otherwise noted.
 #
 class configy {
+  include ::configy::install
+  include ::configy::install
 
 
 }
